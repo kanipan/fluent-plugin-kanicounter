@@ -2,7 +2,7 @@
 $:.push File.expand_path('../lib', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["kanipan"]
+  gem.authors       = ["tatsuhito"]
   gem.email         = ["g3nt1gp03@gmail.com"]
   gem.description   = %q{kanicounter}
   gem.summary       = %q{Output filter plugin to count messages that matches "kani"}
