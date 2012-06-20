@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fluent::Plugin::Kanicounter
 
 TODO: Write a gem description
@@ -27,3 +28,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+fluent-plugin-kanicounter
+=========================
+
+count kani
+>>>>>>> 6c88897dea52f285918466aaee8e6fc035c91c74
