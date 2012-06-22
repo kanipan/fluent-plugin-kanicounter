@@ -1,9 +1,0 @@
-require "fluent-plugin-kanicounter/version"
-
-module Fluent
-  module Plugin
-    module Kanicounter
-      # Your code goes here...
-    end
-  end
-end

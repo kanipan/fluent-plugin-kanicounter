@@ -2,8 +2,8 @@ class Fluent::KaniCounterOutput < Fluent::BufferedOutput
   Fluent::Plugin.register_output('kanicounter', self)
 
   # config_param :hoge, :string, :default => 'hoge'
-  config_param :tag, :string
-  config_param :value, :integer :default => 0
+#  config_param :tag, :string
+#  config_param :value, :integer :default => 0
 
   def initialize
     super
